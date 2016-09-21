@@ -12,3 +12,7 @@ If you figure out a way to trigger the context menu, please let us know!
 
 
 I'm new to package development so if you spot I've missed anything (large or small), please shout.
+
+## TODO:
+
+- Get lib/context-menu-open.coffee > `open` working 
